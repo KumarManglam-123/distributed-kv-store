@@ -1,0 +1,8 @@
+com\kvstore\model\AuditLog.class
+com\kvstore\service\ReplicationService.class
+com\kvstore\service\ConsistentHashService.class
+com\kvstore\model\KeyValue.class
+com\kvstore\controller\KVController.class
+com\kvstore\App.class
+com\kvstore\repository\AuditLogRepository.class
+com\kvstore\service\KVStoreService.class
